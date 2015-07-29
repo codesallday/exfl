@@ -2,8 +2,8 @@
 title: EX-FL Fantasy Football (since 2008)
 email: ryananthonyrichardson@gmail.com
 description: "The EX-FL began in Dave and Ryan's old villa in the ghetto."
-baseurl: "http://codesallday.github.io/exfl"
-url: ""
+baseurl: ""
+url: "http://codesallday.github.io/exfl"
 #twitter_username: jekyllrb
 github_username:  codesallday
 
